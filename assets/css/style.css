@@ -30,3 +30,7 @@
   width: 100%;
   background: var(--color-gradient);
 }
+
+#social_media img {
+  width: 35px;
+}
